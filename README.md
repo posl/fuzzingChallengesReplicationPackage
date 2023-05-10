@@ -15,3 +15,5 @@ The replication-labeling file contains the result of the final categorization of
 
 
 The replication-surveyAnswers file contains the results of the survey conducted with fuzzing practitioners. The file shows the questions that were asked to the survey respondents along with the respondents' answers.
+
+The figures directory contains figures of the survey respondents' answers split by their experience level. 
